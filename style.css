@@ -16,4 +16,5 @@
   background: var(--main-bg-color);
   color: #fff;
   height: 38px;
+  border: none;
 }
